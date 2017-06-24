@@ -1,0 +1,280 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: foundationpress-libsass-template 5.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-24 14:35-0700\n"
+"PO-Revision-Date: 2017-06-24 15:01-0700\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"Last-Translator: \n"
+"Language: vi_VN\n"
+
+#: 404.php:8
+msgid "File Not Found"
+msgstr "Không tìm thấy"
+
+#: 404.php:12
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable."
+msgstr ""
+"Trang bạn đang tìm kiếm có thể đã bị xóa, đã đổi tên hoặc tạm thời không "
+"khả dụng."
+
+#: 404.php:14
+msgid "Please try the following:"
+msgstr "Hãy thử như sau:"
+
+#: 404.php:16
+msgid "Check your spelling"
+msgstr "Kiểm tra lỗi chính tả"
+
+#: 404.php:17
+#, php-format
+msgid "Return to the <a href=\"%s\">home page</a>"
+msgstr "Chuyển về <a href=\"%s\">trang chủ</a>"
+
+#: 404.php:18
+msgid "Click the <a href=\"javascript:history.back()\">Back</a> button"
+msgstr "Nhấp vào nút<a href=\"javascript:history.back()\">để quay lại </a>"
+
+#. /previous pages when applicable
+#: archive.php:21 index.php:24 search.php:25
+msgid "&larr; Older posts"
+msgstr "&larr; Bài viết cũ hơn"
+
+#: archive.php:22 index.php:25 search.php:26
+msgid "Newer posts &rarr;"
+msgstr "Bài viết mới hơn &rarr;"
+
+#: comments.php:8
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: comments.php:9
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: comments.php:10
+msgid "(Edit)"
+msgstr "(Sửa)"
+
+#: comments.php:16
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ kiểm duyệt"
+
+#: comments.php:31
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Vui lòng không tải trang này trực tiếp. Cảm ơn!"
+
+#: comments.php:36
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Bài viết này được bảo vệ bằng mật khẩu. Nhập mật khẩu để xem các bình luận."
+
+#: comments.php:46
+msgid "No Responses to"
+msgstr "Không có phản hồi"
+
+#: comments.php:46
+msgid "One Response to"
+msgstr "Có một phản hồi"
+
+#: comments.php:46
+msgid "% Responses to"
+msgstr "% Phản hồi đến"
+
+#: comments.php:53
+msgid "&larr; Older comments"
+msgstr "&larr; Bình luận cũ hơn"
+
+#: comments.php:54
+msgid "Newer comments &rarr;"
+msgstr "Bình luận mới hơn &rarr;"
+
+#: comments.php:61
+msgid "Leave a Reply"
+msgstr "Để lại lời nhắn"
+
+#: comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Để lại lời nhắn đến %s"
+
+#: comments.php:64
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Bạn phải <a href=\"%s\">đăng nhập</a> để bình luận"
+
+#: comments.php:68
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Đã đăng nhập với tư cách <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: comments.php:68
+msgid "Log out of this account"
+msgstr "Thoát khỏi tài khoản này"
+
+#: comments.php:68
+msgid "Log out &raquo;"
+msgstr "Thoát ra"
+
+#: comments.php:71
+msgid "Name"
+msgstr "Tên"
+
+#: comments.php:71 comments.php:75
+msgid " (required)"
+msgstr "bắt buộc"
+
+#: comments.php:75
+msgid "Email (will not be published)"
+msgstr "Địa chỉ email (sẽ không công khai)"
+
+#: comments.php:79
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:84
+msgid "Comment"
+msgstr "Bình luận"
+
+#: comments.php:87
+msgid "You can use these tags:"
+msgstr "Bạn có thể sử dung những tags sau:"
+
+#: comments.php:88
+msgid "Submit Comment"
+msgstr "Gửi bình luận"
+
+#: content-none.php:11
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\"> Bắt "
+"đầu ngay</a>."
+
+#: content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử "
+"lại với các từ khóa khác."
+
+#: content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Dường như nội dung bạn đang tìm kiếm không có. Hãy thử dùng chức năng tìm "
+"kiếm."
+
+#. /archive/search.
+#. *
+#. * @subpackage FoundationPress
+#. * @since FoundationPress 1.0.0
+#.
+#: content.php:16
+msgid "Continue reading..."
+msgstr "Tiếp tục đọc..."
+
+#: hero.php:40 kitchen-sink.php:739 page-full.php:19 page-sidebar-left.php:21
+#: page.php:18 single.php:27 woocommerce.php:18
+msgid "Pages:"
+msgstr "Trang:"
+
+#: library/entry-meta.php:4
+#, php-format
+msgid "Posted on %1$s at %2$s."
+msgstr "Đăng trong  %1$s at %2$s."
+
+#: library/entry-meta.php:5
+msgid "Written by"
+msgstr "Được đăng bởi"
+
+#: library/foundation.php:16
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: library/foundation.php:17
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: library/foundation.php:40
+#, php-format
+msgid ""
+"Please assign a menu to the primary menu location under %1$s or %2$s the "
+"design."
+msgstr ""
+"Hãy chỉ định một trình đơn tới vị trí trình đơn chính trong %1$s hoặc "
+"%2$s  ."
+
+#: library/foundation.php:41
+#, php-format
+msgid "<a href=\"%s\">Menus</a>"
+msgstr "<a href=\"%s\">Menus</a>"
+
+#: library/foundation.php:44
+#, php-format
+msgid "<a href=\"%s\">Customize</a>"
+msgstr "<a href=\"%s\">Tùy chỉnh</a>"
+
+#: library/widget-areas.php:6
+msgid "Sidebar widgets"
+msgstr "Sidebar widgets"
+
+#: library/widget-areas.php:7
+msgid "Drag widgets to this sidebar container."
+msgstr "Kéo thêm các widget để chúng hiển thị trên thanh sidebar"
+
+#: library/widget-areas.php:16
+msgid "Footer widgets"
+msgstr "Widgets cuối trang"
+
+#: library/widget-areas.php:17
+msgid "Drag widgets to this footer container"
+msgstr "Kéo thêm các widget để chúng hiển thị ở cuối trang"
+
+#: node_modules/grunt-pot/test/fixtures/some-file.php:3
+msgid "I'm a translatable string."
+msgstr "Một chuỗi có thể tự dịch"
+
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:4
+msgid "Me too"
+msgstr "Tôi cũng vậy"
+
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:7
+#, php-format
+msgid "I have %d apple"
+msgid_plural "I have %d apples"
+msgstr[0] "Tôi có %d trái táo"
+
+#. / TRANSLATORS: This should be translated as a shorthand for YEAR-MONTH-DAY using 4, 2 and 2 digits.
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:16
+msgid "yyyy-mm-dd"
+msgstr "yyyy-mm-dd"
+
+#: search.php:7
+msgid "Search Results for"
+msgstr "Kết quả tìm kiếm %s"
+
+#: searchform.php:6 searchform.php:10
+msgid "Search"
+msgstr "Tìm kiếm"
