@@ -23,10 +23,8 @@ msgid "File Not Found"
 msgstr "Không tìm thấy tập tin"
 
 #: 404.php:12
-msgid ""
-"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
-msgstr ""
-"Trang bạn đang tìm kiếm có thể đã bị xóa, đã đổi tên hoặc tạm thời không khả dụng."
+msgid "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+msgstr "Trang bạn đang tìm kiếm có thể đã bị xóa, đã đổi tên hoặc tạm thời không khả dụng."
 
 #: 404.php:14
 msgid "Please try the following:"
@@ -169,18 +167,12 @@ msgstr ""
 "đầu ngay</a>."
 
 #: content-none.php:21
-msgid ""
-"Sorry, but nothing matched your search terms. Please try again with some "
-"different keywords."
-msgstr ""
-"Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử "
-"lại với các từ khóa khác."
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
 
 #: content-none.php:26
-msgid ""
-"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
-msgstr ""
-"Dường như nội dung bạn đang tìm kiếm không có. Hãy thử dùng chức năng tìm kiếm."
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Dường như nội dung bạn đang tìm kiếm không có. Hãy thử dùng chức năng tìm kiếm."
 
 #. /archive/search.
 #. *
@@ -215,10 +207,8 @@ msgstr "&raquo;"
 
 #: library/foundation.php:40
 #, php-format
-msgid ""
-"Please assign a menu to the primary menu location under %1$s or %2$s the design."
-msgstr ""
-"Hãy chỉ định một trình đơn tới vị trí trình đơn chính trong %1$s hoặc %2$s."
+msgid "Please assign a menu to the primary menu location under %1$s or %2$s the design."
+msgstr "Hãy chỉ định một trình đơn tới vị trí trình đơn chính trong %1$s hoặc %2$s."
 
 #: library/foundation.php:41
 #, php-format
